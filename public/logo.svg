@@ -1,0 +1,10 @@
+<svg viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Custom Monogram K -->
+  <g stroke="#1C1917" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="6" y1="6" x2="6" y2="26" />
+    <path d="M 20 6 L 10 16 L 20 26" />
+  </g>
+  
+  <!-- Wordmark -->
+  <text x="26" y="27" font-family="'DM Sans', 'Inter', system-ui, sans-serif" font-weight="700" font-size="24" letter-spacing="-0.03em" fill="#1C1917">witaly</text>
+</svg>
