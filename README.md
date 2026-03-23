@@ -66,12 +66,6 @@ The application will be available at `http://localhost:3000`.
 | `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Your Supabase public anonymous key | `eyJhbGciOiJIUzI1...` |
 | `RESEND_API_KEY` | API key for Resend email service | `re_123456789...` |
 
-## Deploy
-Kwitaly can be easily deployed to modern hosting platforms.
-
-- Frontend (Next.js): Deploy the GitHub repository directly to [Vercel](https://vercel.com/new).
-- Backend (Supabase): Hosted via Supabase cloud infrastructure.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
